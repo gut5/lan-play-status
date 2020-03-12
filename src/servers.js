@@ -349,5 +349,15 @@ export default [
     ping: undefined,
     data: undefined,
     type: "dotnet"
-  }
+  },
+   {
+    ip: "mhguguts.ddns.net",
+    port: 11451,
+    flag: "gb",
+    platform: "switch",
+    status: undefined,
+    ping: undefined,
+    data: undefined,    
+    type: "dotnet"
+   }
 ];
